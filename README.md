@@ -1,1 +1,1 @@
-The burger images are taken **straight** from burgerking.fr and the Images depicting Moley's Burger have been genrated using **Gemini**
+Les images de burger sont prises *directement* depuis burgerking.fr et les images représentant Moley's Burger ont été générées en utilisant **Gemini**
